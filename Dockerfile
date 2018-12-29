@@ -1,4 +1,4 @@
-FROM 06ae1d7951e0
+FROM phpip/ops
 #COPY static-html-directory /usr/share/nginx/html
 
 #添加代码
